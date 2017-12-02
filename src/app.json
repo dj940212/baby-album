@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/index/photo-detail/photo-detail",
+    "pages/index/addPhotoPage/addPhotoPage",
+    "pages/index/addVideoPage/addVideoPage"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#f8f8f8",
+    "backgroundColor": "#fff",
+    "navigationBarTitleText": "田京墨",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh" : true
+  }
+}
