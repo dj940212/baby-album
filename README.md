@@ -1,38 +1,11 @@
-```js
-export default {
-	port: 8087,
-    db: '',
-    qiniu: {
-        AK: '',
-    	SK: ''
-    },
-    admin: {
-        username: '',
-        password: ''
-    }
-}
-```
+## 拾忆宝宝相册
 
-## 时光小屋
+> 微信小程序宝宝相册,全家共享宝宝成长的每一瞬间
 
-> 一个微信小程序相册,用来记录宝宝成长中的每一个瞬间
->
-> 小外甥女去年出生,给她做个小程序来存放她的照片视频
-
-
-![](http://oupfkjs5r.bkt.clouddn.com/gh_262be9a97cb2_258.jpg)
-## 启动项目
-#### 克隆
-
-> git@github.com:dj940212/baby-wxapp.git
-
-##### 运行
-
-> 使用微信小程序开发工具运行项目,具体见 [微信小程序开发工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
 
 ## 功能预览
 
-![](http://image.dingjian.name/blog/170920/G8lcad0iAi.jpg?imageslim)
+![](http://image.dingjian.name/blog/180222/fkJFjGCKb9.png)
 
 ----
 
