@@ -5,7 +5,7 @@
 
 ## 功能预览
 
-![](http://image.dingjian.name/blog/180222/fkJFjGCKb9.png'){:height="50%" width="50%"}
+![](http://image.dingjian.name/blog/180222/fkJFjGCKb9.png?imageView2/2/w/400')
 
 ----
 
